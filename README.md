@@ -1,2 +1,2 @@
 # NetworkAutomation
-This is about the Automate your Networking Skills.
+This is about how to Automate your Networking Skills.
